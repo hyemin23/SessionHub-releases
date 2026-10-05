@@ -1,7 +1,8 @@
 {
   "client_id": "https://hyemin23.github.io/SessionHub-releases/oauth/sessionhub-login-test.json",
   "client_name": "Session Hub Login Test",
-  "client_uri": "https://github.com/hyemin23/SessionHub",
+  "client_uri": "https://hyemin23.github.io/SessionHub-releases/",
+  "application_type": "native",
   "redirect_uris": [
     "http://127.0.0.1:47903/callback"
   ],

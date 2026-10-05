@@ -1,0 +1,11 @@
+{
+  "client_id": "https://hyemin23.github.io/SessionHub-releases/oauth/sessionhub-login-test.json",
+  "client_name": "Session Hub Login Test",
+  "client_uri": "https://github.com/hyemin23/SessionHub",
+  "redirect_uris": [
+    "http://127.0.0.1:47903/callback"
+  ],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
